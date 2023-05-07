@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\ConsoleStringExample\ConsoleBasicFunction\bin\Debug\netcoreapp3.1\ConsoleBasicFunction.exe
+C:\Users\ASUS\source\repos\ConsoleStringExample\ConsoleBasicFunction\bin\Debug\netcoreapp3.1\ConsoleBasicFunction.deps.json
+C:\Users\ASUS\source\repos\ConsoleStringExample\ConsoleBasicFunction\bin\Debug\netcoreapp3.1\ConsoleBasicFunction.runtimeconfig.json
+C:\Users\ASUS\source\repos\ConsoleStringExample\ConsoleBasicFunction\bin\Debug\netcoreapp3.1\ConsoleBasicFunction.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\ConsoleStringExample\ConsoleBasicFunction\bin\Debug\netcoreapp3.1\ConsoleBasicFunction.dll
+C:\Users\ASUS\source\repos\ConsoleStringExample\ConsoleBasicFunction\bin\Debug\netcoreapp3.1\ConsoleBasicFunction.pdb
+C:\Users\ASUS\source\repos\ConsoleStringExample\ConsoleBasicFunction\obj\Debug\netcoreapp3.1\ConsoleBasicFunction.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\ConsoleStringExample\ConsoleBasicFunction\obj\Debug\netcoreapp3.1\ConsoleBasicFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\ConsoleStringExample\ConsoleBasicFunction\obj\Debug\netcoreapp3.1\ConsoleBasicFunction.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\ConsoleStringExample\ConsoleBasicFunction\obj\Debug\netcoreapp3.1\ConsoleBasicFunction.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\ConsoleStringExample\ConsoleBasicFunction\obj\Debug\netcoreapp3.1\ConsoleBasicFunction.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ConsoleStringExample\ConsoleBasicFunction\obj\Debug\netcoreapp3.1\ConsoleBasicFunction.dll
+C:\Users\ASUS\source\repos\ConsoleStringExample\ConsoleBasicFunction\obj\Debug\netcoreapp3.1\ConsoleBasicFunction.pdb
+C:\Users\ASUS\source\repos\ConsoleStringExample\ConsoleBasicFunction\obj\Debug\netcoreapp3.1\ConsoleBasicFunction.genruntimeconfig.cache

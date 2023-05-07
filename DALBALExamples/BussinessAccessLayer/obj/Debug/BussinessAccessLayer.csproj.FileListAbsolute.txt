@@ -1,0 +1,2 @@
+C:\Users\ASUS\Desktop\xceller\DALBALExamples\BussinessAccessLayer\obj\Debug\BussinessAccessLayer.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\xceller\DALBALExamples\BussinessAccessLayer\obj\Debug\BussinessAccessLayer.csproj.CoreCompileInputs.cache

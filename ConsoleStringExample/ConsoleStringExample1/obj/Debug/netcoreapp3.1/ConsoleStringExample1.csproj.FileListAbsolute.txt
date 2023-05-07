@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\ConsoleStringExample\ConsoleStringExample1\bin\Debug\netcoreapp3.1\ConsoleStringExample1.exe
+C:\Users\ASUS\source\repos\ConsoleStringExample\ConsoleStringExample1\bin\Debug\netcoreapp3.1\ConsoleStringExample1.deps.json
+C:\Users\ASUS\source\repos\ConsoleStringExample\ConsoleStringExample1\bin\Debug\netcoreapp3.1\ConsoleStringExample1.runtimeconfig.json
+C:\Users\ASUS\source\repos\ConsoleStringExample\ConsoleStringExample1\bin\Debug\netcoreapp3.1\ConsoleStringExample1.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\ConsoleStringExample\ConsoleStringExample1\bin\Debug\netcoreapp3.1\ConsoleStringExample1.dll
+C:\Users\ASUS\source\repos\ConsoleStringExample\ConsoleStringExample1\bin\Debug\netcoreapp3.1\ConsoleStringExample1.pdb
+C:\Users\ASUS\source\repos\ConsoleStringExample\ConsoleStringExample1\obj\Debug\netcoreapp3.1\ConsoleStringExample1.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\ConsoleStringExample\ConsoleStringExample1\obj\Debug\netcoreapp3.1\ConsoleStringExample1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\ConsoleStringExample\ConsoleStringExample1\obj\Debug\netcoreapp3.1\ConsoleStringExample1.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\ConsoleStringExample\ConsoleStringExample1\obj\Debug\netcoreapp3.1\ConsoleStringExample1.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\ConsoleStringExample\ConsoleStringExample1\obj\Debug\netcoreapp3.1\ConsoleStringExample1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ConsoleStringExample\ConsoleStringExample1\obj\Debug\netcoreapp3.1\ConsoleStringExample1.dll
+C:\Users\ASUS\source\repos\ConsoleStringExample\ConsoleStringExample1\obj\Debug\netcoreapp3.1\ConsoleStringExample1.pdb
+C:\Users\ASUS\source\repos\ConsoleStringExample\ConsoleStringExample1\obj\Debug\netcoreapp3.1\ConsoleStringExample1.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+C:\Users\ASUS\Desktop\xceller\TableCreationByCode\TableCreation\bin\Debug\TableCreation.exe.config
+C:\Users\ASUS\Desktop\xceller\TableCreationByCode\TableCreation\bin\Debug\TableCreation.exe
+C:\Users\ASUS\Desktop\xceller\TableCreationByCode\TableCreation\bin\Debug\TableCreation.pdb
+C:\Users\ASUS\Desktop\xceller\TableCreationByCode\TableCreation\obj\Debug\TableCreation.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\xceller\TableCreationByCode\TableCreation\obj\Debug\TableCreation.Form1.resources
+C:\Users\ASUS\Desktop\xceller\TableCreationByCode\TableCreation\obj\Debug\TableCreation.Properties.Resources.resources
+C:\Users\ASUS\Desktop\xceller\TableCreationByCode\TableCreation\obj\Debug\TableCreation.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\xceller\TableCreationByCode\TableCreation\obj\Debug\TableCreation.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\xceller\TableCreationByCode\TableCreation\obj\Debug\TableCreation.exe
+C:\Users\ASUS\Desktop\xceller\TableCreationByCode\TableCreation\obj\Debug\TableCreation.pdb

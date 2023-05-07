@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ConsoleFnWithArgWidReturnType/1.0.0": {
+        "runtime": {
+          "ConsoleFnWithArgWidReturnType.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleFnWithArgWidReturnType/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

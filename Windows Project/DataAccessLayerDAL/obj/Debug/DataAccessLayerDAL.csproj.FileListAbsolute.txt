@@ -1,0 +1,6 @@
+C:\Users\ASUS\Desktop\xceller\Windows Project\DataAccessLayerDAL\bin\Debug\DataAccessLayerDAL.dll
+C:\Users\ASUS\Desktop\xceller\Windows Project\DataAccessLayerDAL\bin\Debug\DataAccessLayerDAL.pdb
+C:\Users\ASUS\Desktop\xceller\Windows Project\DataAccessLayerDAL\obj\Debug\DataAccessLayerDAL.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\xceller\Windows Project\DataAccessLayerDAL\obj\Debug\DataAccessLayerDAL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\xceller\Windows Project\DataAccessLayerDAL\obj\Debug\DataAccessLayerDAL.dll
+C:\Users\ASUS\Desktop\xceller\Windows Project\DataAccessLayerDAL\obj\Debug\DataAccessLayerDAL.pdb

@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\xceller\DataPassingThroughFunction\DataPassingThroughFun\bin\Debug\DataPassingThroughFun.exe.config
+C:\Users\ASUS\Desktop\xceller\DataPassingThroughFunction\DataPassingThroughFun\bin\Debug\DataPassingThroughFun.exe
+C:\Users\ASUS\Desktop\xceller\DataPassingThroughFunction\DataPassingThroughFun\bin\Debug\DataPassingThroughFun.pdb
+C:\Users\ASUS\Desktop\xceller\DataPassingThroughFunction\DataPassingThroughFun\bin\Debug\ClassLibrary1.dll
+C:\Users\ASUS\Desktop\xceller\DataPassingThroughFunction\DataPassingThroughFun\bin\Debug\ClassLibrary1.pdb
+C:\Users\ASUS\Desktop\xceller\DataPassingThroughFunction\DataPassingThroughFun\obj\Debug\DataPassingThroughFun.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\xceller\DataPassingThroughFunction\DataPassingThroughFun\obj\Debug\DataPassingThroughFun.Form1.resources
+C:\Users\ASUS\Desktop\xceller\DataPassingThroughFunction\DataPassingThroughFun\obj\Debug\DataPassingThroughFun.Form2.resources
+C:\Users\ASUS\Desktop\xceller\DataPassingThroughFunction\DataPassingThroughFun\obj\Debug\DataPassingThroughFun.Properties.Resources.resources
+C:\Users\ASUS\Desktop\xceller\DataPassingThroughFunction\DataPassingThroughFun\obj\Debug\DataPassingThroughFun.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\xceller\DataPassingThroughFunction\DataPassingThroughFun\obj\Debug\DataPassingThroughFun.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\xceller\DataPassingThroughFunction\DataPassingThroughFun\obj\Debug\DataPassingThroughFun.csproj.CopyComplete
+C:\Users\ASUS\Desktop\xceller\DataPassingThroughFunction\DataPassingThroughFun\obj\Debug\DataPassingThroughFun.exe
+C:\Users\ASUS\Desktop\xceller\DataPassingThroughFunction\DataPassingThroughFun\obj\Debug\DataPassingThroughFun.pdb

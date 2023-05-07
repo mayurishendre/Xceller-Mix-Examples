@@ -1,0 +1,10 @@
+C:\Users\ASUS\Desktop\xceller\Web Services programs\WeatherForm\bin\Debug\WeatherForm.exe.config
+C:\Users\ASUS\Desktop\xceller\Web Services programs\WeatherForm\bin\Debug\WeatherForm.exe
+C:\Users\ASUS\Desktop\xceller\Web Services programs\WeatherForm\bin\Debug\WeatherForm.pdb
+C:\Users\ASUS\Desktop\xceller\Web Services programs\WeatherForm\obj\Debug\WeatherForm.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\xceller\Web Services programs\WeatherForm\obj\Debug\WeatherForm.Form1.resources
+C:\Users\ASUS\Desktop\xceller\Web Services programs\WeatherForm\obj\Debug\WeatherForm.Properties.Resources.resources
+C:\Users\ASUS\Desktop\xceller\Web Services programs\WeatherForm\obj\Debug\WeatherForm.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\xceller\Web Services programs\WeatherForm\obj\Debug\WeatherForm.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\xceller\Web Services programs\WeatherForm\obj\Debug\WeatherForm.exe
+C:\Users\ASUS\Desktop\xceller\Web Services programs\WeatherForm\obj\Debug\WeatherForm.pdb

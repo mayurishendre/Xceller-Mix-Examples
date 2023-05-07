@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\ConsoleStringExample\ConsoleUpperToLowerAlphabets\bin\Debug\netcoreapp3.1\ConsoleUpperToLowerAlphabets.exe
+C:\Users\ASUS\source\repos\ConsoleStringExample\ConsoleUpperToLowerAlphabets\bin\Debug\netcoreapp3.1\ConsoleUpperToLowerAlphabets.deps.json
+C:\Users\ASUS\source\repos\ConsoleStringExample\ConsoleUpperToLowerAlphabets\bin\Debug\netcoreapp3.1\ConsoleUpperToLowerAlphabets.runtimeconfig.json
+C:\Users\ASUS\source\repos\ConsoleStringExample\ConsoleUpperToLowerAlphabets\bin\Debug\netcoreapp3.1\ConsoleUpperToLowerAlphabets.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\ConsoleStringExample\ConsoleUpperToLowerAlphabets\bin\Debug\netcoreapp3.1\ConsoleUpperToLowerAlphabets.dll
+C:\Users\ASUS\source\repos\ConsoleStringExample\ConsoleUpperToLowerAlphabets\bin\Debug\netcoreapp3.1\ConsoleUpperToLowerAlphabets.pdb
+C:\Users\ASUS\source\repos\ConsoleStringExample\ConsoleUpperToLowerAlphabets\obj\Debug\netcoreapp3.1\ConsoleUpperToLowerAlphabets.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\ConsoleStringExample\ConsoleUpperToLowerAlphabets\obj\Debug\netcoreapp3.1\ConsoleUpperToLowerAlphabets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\ConsoleStringExample\ConsoleUpperToLowerAlphabets\obj\Debug\netcoreapp3.1\ConsoleUpperToLowerAlphabets.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\ConsoleStringExample\ConsoleUpperToLowerAlphabets\obj\Debug\netcoreapp3.1\ConsoleUpperToLowerAlphabets.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\ConsoleStringExample\ConsoleUpperToLowerAlphabets\obj\Debug\netcoreapp3.1\ConsoleUpperToLowerAlphabets.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ConsoleStringExample\ConsoleUpperToLowerAlphabets\obj\Debug\netcoreapp3.1\ConsoleUpperToLowerAlphabets.dll
+C:\Users\ASUS\source\repos\ConsoleStringExample\ConsoleUpperToLowerAlphabets\obj\Debug\netcoreapp3.1\ConsoleUpperToLowerAlphabets.pdb
+C:\Users\ASUS\source\repos\ConsoleStringExample\ConsoleUpperToLowerAlphabets\obj\Debug\netcoreapp3.1\ConsoleUpperToLowerAlphabets.genruntimeconfig.cache

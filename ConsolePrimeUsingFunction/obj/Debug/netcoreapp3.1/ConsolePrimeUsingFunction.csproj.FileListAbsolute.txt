@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\xceller\ConsolePrimeUsingFunction\bin\Debug\netcoreapp3.1\ConsolePrimeUsingFunction.exe
+C:\Users\ASUS\Desktop\xceller\ConsolePrimeUsingFunction\bin\Debug\netcoreapp3.1\ConsolePrimeUsingFunction.deps.json
+C:\Users\ASUS\Desktop\xceller\ConsolePrimeUsingFunction\bin\Debug\netcoreapp3.1\ConsolePrimeUsingFunction.runtimeconfig.json
+C:\Users\ASUS\Desktop\xceller\ConsolePrimeUsingFunction\bin\Debug\netcoreapp3.1\ConsolePrimeUsingFunction.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\xceller\ConsolePrimeUsingFunction\bin\Debug\netcoreapp3.1\ConsolePrimeUsingFunction.dll
+C:\Users\ASUS\Desktop\xceller\ConsolePrimeUsingFunction\bin\Debug\netcoreapp3.1\ConsolePrimeUsingFunction.pdb
+C:\Users\ASUS\Desktop\xceller\ConsolePrimeUsingFunction\obj\Debug\netcoreapp3.1\ConsolePrimeUsingFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\xceller\ConsolePrimeUsingFunction\obj\Debug\netcoreapp3.1\ConsolePrimeUsingFunction.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\xceller\ConsolePrimeUsingFunction\obj\Debug\netcoreapp3.1\ConsolePrimeUsingFunction.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\xceller\ConsolePrimeUsingFunction\obj\Debug\netcoreapp3.1\ConsolePrimeUsingFunction.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\xceller\ConsolePrimeUsingFunction\obj\Debug\netcoreapp3.1\ConsolePrimeUsingFunction.dll
+C:\Users\ASUS\Desktop\xceller\ConsolePrimeUsingFunction\obj\Debug\netcoreapp3.1\ConsolePrimeUsingFunction.pdb
+C:\Users\ASUS\Desktop\xceller\ConsolePrimeUsingFunction\obj\Debug\netcoreapp3.1\ConsolePrimeUsingFunction.genruntimeconfig.cache

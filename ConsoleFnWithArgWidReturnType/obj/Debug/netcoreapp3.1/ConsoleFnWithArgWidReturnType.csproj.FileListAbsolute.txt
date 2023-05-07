@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\xceller\ConsoleFnWithArgWidReturnType\bin\Debug\netcoreapp3.1\ConsoleFnWithArgWidReturnType.exe
+C:\Users\ASUS\Desktop\xceller\ConsoleFnWithArgWidReturnType\bin\Debug\netcoreapp3.1\ConsoleFnWithArgWidReturnType.deps.json
+C:\Users\ASUS\Desktop\xceller\ConsoleFnWithArgWidReturnType\bin\Debug\netcoreapp3.1\ConsoleFnWithArgWidReturnType.runtimeconfig.json
+C:\Users\ASUS\Desktop\xceller\ConsoleFnWithArgWidReturnType\bin\Debug\netcoreapp3.1\ConsoleFnWithArgWidReturnType.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\xceller\ConsoleFnWithArgWidReturnType\bin\Debug\netcoreapp3.1\ConsoleFnWithArgWidReturnType.dll
+C:\Users\ASUS\Desktop\xceller\ConsoleFnWithArgWidReturnType\bin\Debug\netcoreapp3.1\ConsoleFnWithArgWidReturnType.pdb
+C:\Users\ASUS\Desktop\xceller\ConsoleFnWithArgWidReturnType\obj\Debug\netcoreapp3.1\ConsoleFnWithArgWidReturnType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\xceller\ConsoleFnWithArgWidReturnType\obj\Debug\netcoreapp3.1\ConsoleFnWithArgWidReturnType.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\xceller\ConsoleFnWithArgWidReturnType\obj\Debug\netcoreapp3.1\ConsoleFnWithArgWidReturnType.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\xceller\ConsoleFnWithArgWidReturnType\obj\Debug\netcoreapp3.1\ConsoleFnWithArgWidReturnType.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\xceller\ConsoleFnWithArgWidReturnType\obj\Debug\netcoreapp3.1\ConsoleFnWithArgWidReturnType.dll
+C:\Users\ASUS\Desktop\xceller\ConsoleFnWithArgWidReturnType\obj\Debug\netcoreapp3.1\ConsoleFnWithArgWidReturnType.pdb
+C:\Users\ASUS\Desktop\xceller\ConsoleFnWithArgWidReturnType\obj\Debug\netcoreapp3.1\ConsoleFnWithArgWidReturnType.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\xceller\ConsoleFnWithArgWidReturnType\obj\Debug\netcoreapp3.1\ConsoleFnWithArgWidReturnType.csproj.AssemblyReference.cache

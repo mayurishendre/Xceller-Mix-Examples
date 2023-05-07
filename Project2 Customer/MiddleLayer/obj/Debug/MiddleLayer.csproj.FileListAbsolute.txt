@@ -1,0 +1,6 @@
+C:\Users\ASUS\Desktop\xceller\Project2 Customer\MiddleLayer\bin\Debug\MiddleLayer.dll
+C:\Users\ASUS\Desktop\xceller\Project2 Customer\MiddleLayer\bin\Debug\MiddleLayer.pdb
+C:\Users\ASUS\Desktop\xceller\Project2 Customer\MiddleLayer\obj\Debug\MiddleLayer.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\xceller\Project2 Customer\MiddleLayer\obj\Debug\MiddleLayer.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\xceller\Project2 Customer\MiddleLayer\obj\Debug\MiddleLayer.dll
+C:\Users\ASUS\Desktop\xceller\Project2 Customer\MiddleLayer\obj\Debug\MiddleLayer.pdb

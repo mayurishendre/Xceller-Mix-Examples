@@ -1,0 +1,9 @@
+C:\Users\ASUS\Desktop\xceller\Windows Project\BussinessAccessLayerBAL\bin\Debug\BussinessAccessLayerBAL.dll
+C:\Users\ASUS\Desktop\xceller\Windows Project\BussinessAccessLayerBAL\bin\Debug\BussinessAccessLayerBAL.pdb
+C:\Users\ASUS\Desktop\xceller\Windows Project\BussinessAccessLayerBAL\bin\Debug\DataAccessLayerDAL.dll
+C:\Users\ASUS\Desktop\xceller\Windows Project\BussinessAccessLayerBAL\bin\Debug\DataAccessLayerDAL.pdb
+C:\Users\ASUS\Desktop\xceller\Windows Project\BussinessAccessLayerBAL\obj\Debug\BussinessAccessLayerBAL.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\xceller\Windows Project\BussinessAccessLayerBAL\obj\Debug\BussinessAccessLayerBAL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\xceller\Windows Project\BussinessAccessLayerBAL\obj\Debug\BussinessAccessLayerBAL.csproj.CopyComplete
+C:\Users\ASUS\Desktop\xceller\Windows Project\BussinessAccessLayerBAL\obj\Debug\BussinessAccessLayerBAL.dll
+C:\Users\ASUS\Desktop\xceller\Windows Project\BussinessAccessLayerBAL\obj\Debug\BussinessAccessLayerBAL.pdb

@@ -1,0 +1,10 @@
+C:\Users\ASUS\Desktop\xceller\CountryStatePrgm\CountryStateBySqlJoin\obj\Debug\CountryStateBySqlJoin.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\xceller\CountryStatePrgm\CountryStateBySqlJoin\obj\Debug\CountryStateBySqlJoin.Form1.resources
+C:\Users\ASUS\Desktop\xceller\CountryStatePrgm\CountryStateBySqlJoin\obj\Debug\CountryStateBySqlJoin.Properties.Resources.resources
+C:\Users\ASUS\Desktop\xceller\CountryStatePrgm\CountryStateBySqlJoin\obj\Debug\CountryStateBySqlJoin.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\xceller\CountryStatePrgm\CountryStateBySqlJoin\obj\Debug\CountryStateBySqlJoin.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\xceller\CountryStatePrgm\CountryStateBySqlJoin\bin\Debug\CountryStateBySqlJoin.exe.config
+C:\Users\ASUS\Desktop\xceller\CountryStatePrgm\CountryStateBySqlJoin\bin\Debug\CountryStateBySqlJoin.exe
+C:\Users\ASUS\Desktop\xceller\CountryStatePrgm\CountryStateBySqlJoin\bin\Debug\CountryStateBySqlJoin.pdb
+C:\Users\ASUS\Desktop\xceller\CountryStatePrgm\CountryStateBySqlJoin\obj\Debug\CountryStateBySqlJoin.exe
+C:\Users\ASUS\Desktop\xceller\CountryStatePrgm\CountryStateBySqlJoin\obj\Debug\CountryStateBySqlJoin.pdb

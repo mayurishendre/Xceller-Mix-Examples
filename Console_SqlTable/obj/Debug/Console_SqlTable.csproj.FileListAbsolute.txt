@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\xceller\Console_SqlTable\bin\Debug\Console_SqlTable.exe.config
+C:\Users\ASUS\Desktop\xceller\Console_SqlTable\bin\Debug\Console_SqlTable.exe
+C:\Users\ASUS\Desktop\xceller\Console_SqlTable\bin\Debug\Console_SqlTable.pdb
+C:\Users\ASUS\Desktop\xceller\Console_SqlTable\obj\Debug\Console_SqlTable.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\xceller\Console_SqlTable\obj\Debug\Console_SqlTable.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\xceller\Console_SqlTable\obj\Debug\Console_SqlTable.exe
+C:\Users\ASUS\Desktop\xceller\Console_SqlTable\obj\Debug\Console_SqlTable.pdb

@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\xceller\Project2 Customer\Customer Project\bin\Debug\Customer Project.exe.config
+C:\Users\ASUS\Desktop\xceller\Project2 Customer\Customer Project\bin\Debug\Customer Project.exe
+C:\Users\ASUS\Desktop\xceller\Project2 Customer\Customer Project\bin\Debug\Customer Project.pdb
+C:\Users\ASUS\Desktop\xceller\Project2 Customer\Customer Project\bin\Debug\Factory.dll
+C:\Users\ASUS\Desktop\xceller\Project2 Customer\Customer Project\bin\Debug\MiddleLayer.dll
+C:\Users\ASUS\Desktop\xceller\Project2 Customer\Customer Project\bin\Debug\Factory.pdb
+C:\Users\ASUS\Desktop\xceller\Project2 Customer\Customer Project\bin\Debug\MiddleLayer.pdb
+C:\Users\ASUS\Desktop\xceller\Project2 Customer\Customer Project\obj\Debug\Customer Project.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\xceller\Project2 Customer\Customer Project\obj\Debug\Customer_Project.Properties.Resources.resources
+C:\Users\ASUS\Desktop\xceller\Project2 Customer\Customer Project\obj\Debug\Customer Project.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\xceller\Project2 Customer\Customer Project\obj\Debug\Customer Project.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\xceller\Project2 Customer\Customer Project\obj\Debug\Customer Project.csproj.CopyComplete
+C:\Users\ASUS\Desktop\xceller\Project2 Customer\Customer Project\obj\Debug\Customer Project.exe
+C:\Users\ASUS\Desktop\xceller\Project2 Customer\Customer Project\obj\Debug\Customer Project.pdb
+C:\Users\ASUS\Desktop\xceller\Project2 Customer\Customer Project\obj\Debug\Customer_Project.frmCustomer.resources

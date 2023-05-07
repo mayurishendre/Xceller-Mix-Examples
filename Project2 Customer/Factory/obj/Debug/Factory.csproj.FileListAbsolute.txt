@@ -1,0 +1,9 @@
+C:\Users\ASUS\Desktop\xceller\Project2 Customer\Factory\bin\Debug\Factory.dll
+C:\Users\ASUS\Desktop\xceller\Project2 Customer\Factory\bin\Debug\Factory.pdb
+C:\Users\ASUS\Desktop\xceller\Project2 Customer\Factory\bin\Debug\MiddleLayer.dll
+C:\Users\ASUS\Desktop\xceller\Project2 Customer\Factory\bin\Debug\MiddleLayer.pdb
+C:\Users\ASUS\Desktop\xceller\Project2 Customer\Factory\obj\Debug\Factory.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\xceller\Project2 Customer\Factory\obj\Debug\Factory.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\xceller\Project2 Customer\Factory\obj\Debug\Factory.csproj.CopyComplete
+C:\Users\ASUS\Desktop\xceller\Project2 Customer\Factory\obj\Debug\Factory.dll
+C:\Users\ASUS\Desktop\xceller\Project2 Customer\Factory\obj\Debug\Factory.pdb

@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\xceller\DataPassThroghClassObj\FormData1\bin\Debug\FormData1.exe.config
+C:\Users\ASUS\Desktop\xceller\DataPassThroghClassObj\FormData1\bin\Debug\FormData1.exe
+C:\Users\ASUS\Desktop\xceller\DataPassThroghClassObj\FormData1\bin\Debug\FormData1.pdb
+C:\Users\ASUS\Desktop\xceller\DataPassThroghClassObj\FormData1\bin\Debug\ClassLibrary1.dll
+C:\Users\ASUS\Desktop\xceller\DataPassThroghClassObj\FormData1\bin\Debug\ClassLibrary1.pdb
+C:\Users\ASUS\Desktop\xceller\DataPassThroghClassObj\FormData1\obj\Debug\FormData1.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\xceller\DataPassThroghClassObj\FormData1\obj\Debug\FormData1.Form1.resources
+C:\Users\ASUS\Desktop\xceller\DataPassThroghClassObj\FormData1\obj\Debug\FormData1.Form2.resources
+C:\Users\ASUS\Desktop\xceller\DataPassThroghClassObj\FormData1\obj\Debug\FormData1.Properties.Resources.resources
+C:\Users\ASUS\Desktop\xceller\DataPassThroghClassObj\FormData1\obj\Debug\FormData1.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\xceller\DataPassThroghClassObj\FormData1\obj\Debug\FormData1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\xceller\DataPassThroghClassObj\FormData1\obj\Debug\FormData1.csproj.CopyComplete
+C:\Users\ASUS\Desktop\xceller\DataPassThroghClassObj\FormData1\obj\Debug\FormData1.exe
+C:\Users\ASUS\Desktop\xceller\DataPassThroghClassObj\FormData1\obj\Debug\FormData1.pdb

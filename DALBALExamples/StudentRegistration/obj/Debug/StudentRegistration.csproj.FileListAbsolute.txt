@@ -1,0 +1,5 @@
+C:\Users\ASUS\Desktop\xceller\DALBALExamples\StudentRegistration\obj\Debug\StudentRegistration.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\xceller\DALBALExamples\StudentRegistration\obj\Debug\StudentRegistration.Form1.resources
+C:\Users\ASUS\Desktop\xceller\DALBALExamples\StudentRegistration\obj\Debug\StudentRegistration.Properties.Resources.resources
+C:\Users\ASUS\Desktop\xceller\DALBALExamples\StudentRegistration\obj\Debug\StudentRegistration.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\xceller\DALBALExamples\StudentRegistration\obj\Debug\StudentRegistration.csproj.CoreCompileInputs.cache

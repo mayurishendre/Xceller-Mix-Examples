@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\xceller\Windows Project\InstituteRegistration\bin\Debug\InstituteRegistration.exe.config
+C:\Users\ASUS\Desktop\xceller\Windows Project\InstituteRegistration\bin\Debug\InstituteRegistration.exe
+C:\Users\ASUS\Desktop\xceller\Windows Project\InstituteRegistration\bin\Debug\InstituteRegistration.pdb
+C:\Users\ASUS\Desktop\xceller\Windows Project\InstituteRegistration\obj\Debug\InstituteRegistration.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\xceller\Windows Project\InstituteRegistration\obj\Debug\InstituteRegistration.frmInstituteRegistration.resources
+C:\Users\ASUS\Desktop\xceller\Windows Project\InstituteRegistration\obj\Debug\InstituteRegistration.Properties.Resources.resources
+C:\Users\ASUS\Desktop\xceller\Windows Project\InstituteRegistration\obj\Debug\InstituteRegistration.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\xceller\Windows Project\InstituteRegistration\obj\Debug\InstituteRegistration.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\xceller\Windows Project\InstituteRegistration\obj\Debug\InstituteRegistration.exe
+C:\Users\ASUS\Desktop\xceller\Windows Project\InstituteRegistration\obj\Debug\InstituteRegistration.pdb
+C:\Users\ASUS\Desktop\xceller\Windows Project\InstituteRegistration\bin\Debug\BussinessAccessLayerBAL.dll
+C:\Users\ASUS\Desktop\xceller\Windows Project\InstituteRegistration\bin\Debug\DataAccessLayerDAL.dll
+C:\Users\ASUS\Desktop\xceller\Windows Project\InstituteRegistration\bin\Debug\BussinessAccessLayerBAL.pdb
+C:\Users\ASUS\Desktop\xceller\Windows Project\InstituteRegistration\bin\Debug\DataAccessLayerDAL.pdb
+C:\Users\ASUS\Desktop\xceller\Windows Project\InstituteRegistration\obj\Debug\InstituteRegistration.csproj.CopyComplete
